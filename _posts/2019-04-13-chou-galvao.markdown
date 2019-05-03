@@ -32,6 +32,7 @@ This calls for significant policy change in both local government and FEMA to al
 **[Previous comparison map & overlay of Hospital, Care-center, and schools locations]**
 
 
+<iframe frameborder="0" class="juxtapose" width="100%" height="2057" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=35c476c8-6d46-11e9-8106-0edaf8f81e27"></iframe>
 
 
 [link](https://github.com/CenterForSpatialResearch/puerto_rico_now/blob/master/_posts/2019-03-20-template.markdown)
