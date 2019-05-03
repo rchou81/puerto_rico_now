@@ -32,8 +32,6 @@ This calls for significant policy change in both local government and FEMA to al
 **[Previous comparison map & overlay of Hospital, Care-center, and schools locations]**
 
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="2057" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=35c476c8-6d46-11e9-8106-0edaf8f81e27"></iframe>
-
 
 [link](https://github.com/CenterForSpatialResearch/puerto_rico_now/blob/master/_posts/2019-03-20-template.markdown)
 
@@ -81,3 +79,7 @@ All you need to do to use one is replace the url that is between the two " ". He
 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://rchou81.github.io/CU_Bivariance_Map/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe frameborder="0" class="juxtapose" width="100%" height="2057" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=35c476c8-6d46-11e9-8106-0edaf8f81e27"></iframe></div>
+
